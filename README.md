@@ -279,30 +279,6 @@ This repository contains code, configuration metadata, and statistical manifests
 
 ---
 
-## 10. Author & Citation
-
-**Author:** Angelic Charles
-
-*Computational Engineer | African Neurodata Research Lab (ANR Lab)*
-
-*Research Focus:* Computational Neuroscience, Neuroimaging, Machine Learning, AI for Healthcare, AI Ethics.
-
-*GitHub:* [@visionbyangelic](https://www.google.com/search?q=https://github.com/visionbyangelic)
-
-### Citation
-
-If you utilize this workflow, feature schema, or modeling codebase, please cite this repository and the corresponding data resources:
-
-```bibtex
-@article{anr_brain_age_2026,
-  author    = {Charles, Angelic and Duruh, Joseph and ANR Lab},
-  title     = {Structural MRI-Based Brain Age Estimation and Cross-Dataset Generalization},
-  journal   = {African Neurodata Research Lab Technical Reports},
-  year      = {2026},
-  url       = {[https://github.com/visionbyangelic/Brain-Aging](https://github.com/visionbyangelic/Brain-Aging)}
-}
-
-```
 
 ---
 
